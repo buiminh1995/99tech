@@ -1,17 +1,20 @@
+# 99Tech Front-End Submission
+
 Hi,
 
-Thank you for taking the time to review my submission for the Front-End role.
+Thank you for reviewing my submission for the Front-End role.
 
-Problem 2
+## Problem 2
 
-The deployed application can be accessed here:
+The deployed application is available at:
 
-https://99tech-steel.vercel.app/
+* https://99tech-steel.vercel.app/
 
-Problem 3
+## Problem 3
 
-For Problem 3, I documented the identified issues, bugs, and anti-patterns directly in messy_react.tsx as code comments.
+For Problem 3:
 
-The corrected implementation can be found in correct_version.tsx.
+* `messy_react.tsx` contains comments documenting the identified bugs, code smells, and anti-patterns.
+* `correct_version.tsx` contains the corrected implementation.
 
-Thank you for your consideration.
+Thank you for your time and consideration.
