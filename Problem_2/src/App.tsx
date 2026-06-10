@@ -1,11 +1,11 @@
-import { useState } from 'react'
 import './App.css'
-import SwapCard from './components/SwapCard';
+import SwapScreen from './components/SwapScreen';
 
 function App() {
+
   return (
-    <main>
-      <SwapCard />
+    <main id="app">
+      <SwapScreen />
     </main>
   )
 }
